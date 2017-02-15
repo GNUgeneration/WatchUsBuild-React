@@ -9,7 +9,7 @@ class CommentBox extends React.Component {
 
     this.state = {
       showComments: false,
-      comments: []
+	comments: []
     };
   }
 
